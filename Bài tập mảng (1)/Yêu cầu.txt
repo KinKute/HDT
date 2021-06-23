@@ -1,0 +1,17 @@
+Bài thực hành về mảng
+
+Xem dự án về mảng chuỗi tại địa chỉ  https://github.com/thongt/OOPCTK43/tree/master/OOPCTK43/Bai%204%20_%20Quan%20ly%20danh%20sach%20ho%20ten và thực hiện thêm các yêu cầu
+
+Tìm tên xuất hiện nhiều nhất
+Tìm tên xuất hiện ít nhất
+Tìm họ có số lần xuất hiện là x lần
+Tìm tên dài nhất
+Tìm tên ngắn nhất
+Tìm tất cả các tên bắt đầu bằng ký tự x nào đó
+Tìm danh sách tên có họ đệm dài nhất
+Tìm danh sách tên có họ đệm ngắn nhất
+Tìm danh sách tên không có họ đệm
+Thay thế tất cả những người tên x bằng tên y 
+Hiển thị danh sách theo chiều tăng của họ
+Hiển thị danh sách theo tăng chiều dài của tên
+Bổ sung các chức nằng trên vào thực đơn
