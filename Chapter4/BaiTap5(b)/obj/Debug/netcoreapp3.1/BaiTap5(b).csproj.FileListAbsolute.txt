@@ -1,0 +1,3 @@
+C:\Users\Quang Bao\Desktop\Chapter4\BaiTap5(b)\obj\Debug\netcoreapp3.1\BaiTap5(b).AssemblyInfoInputs.cache
+C:\Users\Quang Bao\Desktop\Chapter4\BaiTap5(b)\obj\Debug\netcoreapp3.1\BaiTap5(b).AssemblyInfo.cs
+C:\Users\Quang Bao\Desktop\Chapter4\BaiTap5(b)\obj\Debug\netcoreapp3.1\BaiTap5(b).csproj.CoreCompileInputs.cache
