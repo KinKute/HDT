@@ -1,0 +1,24 @@
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap15\obj\Debug\netcoreapp3.1\BaiTap15.AssemblyInfoInputs.cache
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap15\obj\Debug\netcoreapp3.1\BaiTap15.AssemblyInfo.cs
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap15\obj\Debug\netcoreapp3.1\BaiTap15.csproj.CoreCompileInputs.cache
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap15\bin\Debug\netcoreapp3.1\BaiTap15.exe
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap15\bin\Debug\netcoreapp3.1\BaiTap15.deps.json
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap15\bin\Debug\netcoreapp3.1\BaiTap15.runtimeconfig.json
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap15\bin\Debug\netcoreapp3.1\BaiTap15.runtimeconfig.dev.json
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap15\bin\Debug\netcoreapp3.1\BaiTap15.dll
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap15\bin\Debug\netcoreapp3.1\BaiTap15.pdb
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap15\obj\Debug\netcoreapp3.1\BaiTap15.dll
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap15\obj\Debug\netcoreapp3.1\BaiTap15.pdb
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap15\obj\Debug\netcoreapp3.1\BaiTap15.genruntimeconfig.cache
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\BaiTap15\bin\Debug\netcoreapp3.1\BaiTap15.exe
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\BaiTap15\bin\Debug\netcoreapp3.1\BaiTap15.deps.json
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\BaiTap15\bin\Debug\netcoreapp3.1\BaiTap15.runtimeconfig.json
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\BaiTap15\bin\Debug\netcoreapp3.1\BaiTap15.runtimeconfig.dev.json
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\BaiTap15\bin\Debug\netcoreapp3.1\BaiTap15.dll
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\BaiTap15\bin\Debug\netcoreapp3.1\BaiTap15.pdb
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\BaiTap15\obj\Debug\netcoreapp3.1\BaiTap15.AssemblyInfoInputs.cache
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\BaiTap15\obj\Debug\netcoreapp3.1\BaiTap15.AssemblyInfo.cs
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\BaiTap15\obj\Debug\netcoreapp3.1\BaiTap15.csproj.CoreCompileInputs.cache
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\BaiTap15\obj\Debug\netcoreapp3.1\BaiTap15.dll
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\BaiTap15\obj\Debug\netcoreapp3.1\BaiTap15.pdb
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\BaiTap15\obj\Debug\netcoreapp3.1\BaiTap15.genruntimeconfig.cache
