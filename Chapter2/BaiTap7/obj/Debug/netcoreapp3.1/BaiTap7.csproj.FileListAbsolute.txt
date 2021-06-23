@@ -1,0 +1,12 @@
+C:\Users\Quang Bao\Desktop\BaiTap1\BaiTap7\bin\Debug\netcoreapp3.1\BaiTap7.exe
+C:\Users\Quang Bao\Desktop\BaiTap1\BaiTap7\bin\Debug\netcoreapp3.1\BaiTap7.deps.json
+C:\Users\Quang Bao\Desktop\BaiTap1\BaiTap7\bin\Debug\netcoreapp3.1\BaiTap7.runtimeconfig.json
+C:\Users\Quang Bao\Desktop\BaiTap1\BaiTap7\bin\Debug\netcoreapp3.1\BaiTap7.runtimeconfig.dev.json
+C:\Users\Quang Bao\Desktop\BaiTap1\BaiTap7\bin\Debug\netcoreapp3.1\BaiTap7.dll
+C:\Users\Quang Bao\Desktop\BaiTap1\BaiTap7\bin\Debug\netcoreapp3.1\BaiTap7.pdb
+C:\Users\Quang Bao\Desktop\BaiTap1\BaiTap7\obj\Debug\netcoreapp3.1\BaiTap7.AssemblyInfoInputs.cache
+C:\Users\Quang Bao\Desktop\BaiTap1\BaiTap7\obj\Debug\netcoreapp3.1\BaiTap7.AssemblyInfo.cs
+C:\Users\Quang Bao\Desktop\BaiTap1\BaiTap7\obj\Debug\netcoreapp3.1\BaiTap7.csproj.CoreCompileInputs.cache
+C:\Users\Quang Bao\Desktop\BaiTap1\BaiTap7\obj\Debug\netcoreapp3.1\BaiTap7.dll
+C:\Users\Quang Bao\Desktop\BaiTap1\BaiTap7\obj\Debug\netcoreapp3.1\BaiTap7.pdb
+C:\Users\Quang Bao\Desktop\BaiTap1\BaiTap7\obj\Debug\netcoreapp3.1\BaiTap7.genruntimeconfig.cache
