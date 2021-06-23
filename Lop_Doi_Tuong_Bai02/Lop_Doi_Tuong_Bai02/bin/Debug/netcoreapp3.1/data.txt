@@ -1,0 +1,11 @@
+001,Nguyen Van A	,9.5	,CTK43	,NAM
+002,Truong Tuan B	,7.2	,CTK43	,NAM
+003,Mai Thu C		,5.0	,LHK43	,NU
+004,Tran Thi D		,8.0	,LHK43	,NU
+005,Le Quoc E		,8.6	,CTK43	,NAM
+006,Phung Thanh F	,2.5	,CTK43	,NAM
+007,Tran Thanh G	,1.5	,LHK43	,NAM
+008,Truong Thi H	,6.6	,CTK43	,NU
+009,Tran Dinh I		,9.5	,CTK43	,NAM
+010,Mai Thanh K		,9.5	,QTK43	,NU
+011,Luu Nguyen L	,9.5	,LHK43	,NU
