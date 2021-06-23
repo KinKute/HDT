@@ -1,0 +1,19 @@
+Tiếp tục hoàn thiện bài tập lớp, đối tượng đã ôn trên lớp
+
+Sinh viên xem dự án mẫu trên lớp https://github.com/thongt/OOPCTK43/tree/master/OOPCTK43/Bai%207%20_%20Lop%20-Doi%20Tuong và bổ sung các yêu cầu sau sau:
+
+Thêm thuộc tính giới tính và lớp
+Bổ sung phương thức tạo lập
+Đếm số lượng sinh viên Nam trong lớp
+Đếm số lượng sinh viên Nu trong lớp
+Hiển thị danh sách sinh viên theo chiếu tăng, giảm của điểm trung bình
+Tim danh sách sinh viên có điểm trung bình cao nhất
+Tìm lớp có sinh viên có điểm trung bình cao nhất
+Tìm lớp có sinh viên không có điểm trung bình cao nhất
+Hiển thị danh sách sinh viên theo lớp và theo chiều giảm của điểm trung bình
+Xếp hạng sinh viên của lớp
+Tìm lớp có tổng điểm trung bình cao nhất, thấp nhất
+Tìm lớp có nhiều học sinh giỏi nhất
+Tìm lớp có nhiều học sinh theo loại yếu, trung bình, khá
+Ghi xuống file danh sách lớp 
+Tạo thực đơn cho các chức năng trên

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lop_Doi_Tuong_Bai02/1.0.0": {
+        "runtime": {
+          "Lop_Doi_Tuong_Bai02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lop_Doi_Tuong_Bai02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
