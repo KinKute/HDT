@@ -1,0 +1,12 @@
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\CaseProblems_BaiTap2\bin\Debug\netcoreapp3.1\CaseProblems_BaiTap2.exe
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\CaseProblems_BaiTap2\bin\Debug\netcoreapp3.1\CaseProblems_BaiTap2.deps.json
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\CaseProblems_BaiTap2\bin\Debug\netcoreapp3.1\CaseProblems_BaiTap2.runtimeconfig.json
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\CaseProblems_BaiTap2\bin\Debug\netcoreapp3.1\CaseProblems_BaiTap2.runtimeconfig.dev.json
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\CaseProblems_BaiTap2\bin\Debug\netcoreapp3.1\CaseProblems_BaiTap2.dll
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\CaseProblems_BaiTap2\bin\Debug\netcoreapp3.1\CaseProblems_BaiTap2.pdb
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\CaseProblems_BaiTap2\obj\Debug\netcoreapp3.1\CaseProblems_BaiTap2.AssemblyInfoInputs.cache
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\CaseProblems_BaiTap2\obj\Debug\netcoreapp3.1\CaseProblems_BaiTap2.AssemblyInfo.cs
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\CaseProblems_BaiTap2\obj\Debug\netcoreapp3.1\CaseProblems_BaiTap2.csproj.CoreCompileInputs.cache
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\CaseProblems_BaiTap2\obj\Debug\netcoreapp3.1\CaseProblems_BaiTap2.dll
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\CaseProblems_BaiTap2\obj\Debug\netcoreapp3.1\CaseProblems_BaiTap2.pdb
+C:\Users\Quang Bao\Desktop\c#\chapter 2\chapter2\CaseProblems_BaiTap2\obj\Debug\netcoreapp3.1\CaseProblems_BaiTap2.genruntimeconfig.cache
