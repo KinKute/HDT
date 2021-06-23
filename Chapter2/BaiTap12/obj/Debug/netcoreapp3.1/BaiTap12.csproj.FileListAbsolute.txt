@@ -1,0 +1,12 @@
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap12\bin\Debug\netcoreapp3.1\BaiTap12.exe
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap12\bin\Debug\netcoreapp3.1\BaiTap12.deps.json
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap12\bin\Debug\netcoreapp3.1\BaiTap12.runtimeconfig.json
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap12\bin\Debug\netcoreapp3.1\BaiTap12.runtimeconfig.dev.json
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap12\bin\Debug\netcoreapp3.1\BaiTap12.dll
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap12\bin\Debug\netcoreapp3.1\BaiTap12.pdb
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap12\obj\Debug\netcoreapp3.1\BaiTap12.AssemblyInfoInputs.cache
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap12\obj\Debug\netcoreapp3.1\BaiTap12.AssemblyInfo.cs
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap12\obj\Debug\netcoreapp3.1\BaiTap12.csproj.CoreCompileInputs.cache
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap12\obj\Debug\netcoreapp3.1\BaiTap12.dll
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap12\obj\Debug\netcoreapp3.1\BaiTap12.pdb
+C:\Users\Quang Bao\Desktop\chapter2\BaiTap12\obj\Debug\netcoreapp3.1\BaiTap12.genruntimeconfig.cache
